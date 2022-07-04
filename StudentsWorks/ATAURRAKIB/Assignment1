@@ -1,0 +1,5 @@
+#1.Write about imranslab one time and print it three times.
+#Answerby using range() function:
+for i in range(3):
+	print("Imranslab is a software development company which is now providing python course for free of cost to the studen")
+print("We are second batch"*3)
